@@ -1,6 +1,6 @@
-# sPORTSbOX
+# [sPORTS bOX](https://cdgillis.github.io/sports-box/)
 
-[sPORTS bOX](https://cdgillis.github.io/sports-box/) serves the sports lover; it is a place to view highlights, scores, and schedules of your favourite teams and leagues
+This web application serves the sports lover; it is a place to view highlights, scores, and schedules of your favourite teams and leagues
 
 Current Leagues on sPORTSbOX:
 NFL, NHL, NBA, MLB
