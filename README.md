@@ -23,5 +23,10 @@ Select one of three tabs:
 
 System will prompt "You have to enter a team name for searching", if there's nothing entered in the input field to search, and system will return "(team name): There is such team found!".
 
+---
+
 **[View Website](https://cdgillis.github.io/sports-box/)**
 
+---
+
+Enjoy!
